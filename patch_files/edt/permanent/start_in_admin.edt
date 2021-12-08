@@ -1,0 +1,17 @@
+## Start In Administration ##
+
+#  Start In Administration parameters:
+#  "START_IN_ADMIN" "Club Name" 
+
+#  e.g "START_IN_ADMIN" "Portsmouth"  
+#
+# When adding clubs to start in administration, make sure club finances in the starting DB are 
+# set to reflect the financial distress. Also consider adding a transfer embargo in the appropriate
+# EDT file. Also, the club should not yet have a CVA setup in the DB as one will be negotiated in the
+# game when the club exits administration.
+
+
+"START_IN_ADMIN" "136007"
+#CF Puebla de la Franja
+
+"START_IN_ADMIN" "Derby County" 

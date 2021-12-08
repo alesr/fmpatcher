@@ -1,0 +1,99 @@
+## Valid Takeover Types ##
+
+# This file should be used to indicate which board takeover types, if any, are valid for a specified nation ##
+# The Takeover Types and their toggles are:
+
+# RICH_INDIVIDUAL   ("NO_RICH_INDIVIDUAL_TAKEOVER")
+# CONSORTIUM	    ("NO_CONSORTIUM_TAKEOVER")
+# PLC		    ("NO_PLC_TAKEOVER")
+# FANS TRUST	    ("NO_FANS_TRUST_TAKEOVER")
+# LOCAL BUSINESSMAN ("NO_LOCAL_BUSINESSMAN_TAKEOVER")
+
+# To turn any of these off for a nation, specify the type you wish to turn off and then the nation name
+
+# e.g. "NO_FANS_TRUST_TAKEOVER" "Mexico"
+
+# To enable a takeover type in a particular country, simply remove the line that refers to it from this file.
+
+# You will need to start a new game for any changes you make in this file to take effect.
+
+# It is assumed that all takeover types are valid unless otherwise specified. 'Promotion From Within' cannot
+# be turned off to ensure at least one takeover type is valid.
+
+## No Rich Individual Takeovers
+"NO_RICH_INDIVIDUAL_TAKEOVER" "Germany"
+"NO_RICH_INDIVIDUAL_TAKEOVER" "Finland"
+"NO_RICH_INDIVIDUAL_TAKEOVER" "Denmark"
+"NO_RICH_INDIVIDUAL_TAKEOVER" "Sweden"
+"NO_RICH_INDIVIDUAL_TAKEOVER" "Brazil"
+"NO_RICH_INDIVIDUAL_TAKEOVER" "Turkey"
+
+## No Consortium Takeovers
+"NO_CONSORTIUM_TAKEOVER" "Germany"
+"NO_CONSORTIUM_TAKEOVER" "Portugal"
+"NO_CONSORTIUM_TAKEOVER" "Finland"
+"NO_CONSORTIUM_TAKEOVER" "Denmark"
+"NO_CONSORTIUM_TAKEOVER" "China PR"
+"NO_CONSORTIUM_TAKEOVER" "Belgium"
+"NO_CONSORTIUM_TAKEOVER" "Brazil"
+"NO_CONSORTIUM_TAKEOVER" "Turkey"
+"NO_CONSORTIUM_TAKEOVER" "Sweden"
+
+## No PLC Takeovers
+"NO_PLC_TAKEOVER" "Germany"
+"NO_PLC_TAKEOVER" "Mexico"
+"NO_PLC_TAKEOVER" "Switzerland"
+"NO_PLC_TAKEOVER" "Austria"
+"NO_PLC_TAKEOVER" "Indonesia"
+"NO_PLC_TAKEOVER" "Finland"
+"NO_PLC_TAKEOVER" "South Africa"
+"NO_PLC_TAKEOVER" "Greece"
+"NO_PLC_TAKEOVER" "Denmark"
+"NO_PLC_TAKEOVER" "Sweden"
+"NO_PLC_TAKEOVER" "Israel"
+"NO_PLC_TAKEOVER" "India"
+"NO_PLC_TAKEOVER" "Belgium"
+"NO_PLC_TAKEOVER" "Brazil"
+"NO_PLC_TAKEOVER" "Turkey"
+"NO_PLC_TAKEOVER" "Italy"
+
+## No Fans Trust Takeovers
+"NO_FANS_TRUST_TAKEOVER" "Germany"
+"NO_FANS_TRUST_TAKEOVER" "Mexico"
+"NO_FANS_TRUST_TAKEOVER" "Argentina"
+"NO_FANS_TRUST_TAKEOVER" "Indonesia"
+"NO_FANS_TRUST_TAKEOVER" "Switzerland"
+"NO_FANS_TRUST_TAKEOVER" "Austria"
+"NO_FANS_TRUST_TAKEOVER" "Finland"
+"NO_FANS_TRUST_TAKEOVER" "South Africa"
+"NO_FANS_TRUST_TAKEOVER" "Russia"
+"NO_FANS_TRUST_TAKEOVER" "Brazil"
+"NO_FANS_TRUST_TAKEOVER" "Serbia"
+"NO_FANS_TRUST_TAKEOVER" "Argentina"
+"NO_FANS_TRUST_TAKEOVER" "Denmark"
+"NO_FANS_TRUST_TAKEOVER" "Czech Republic"
+"NO_FANS_TRUST_TAKEOVER" "Sweden"
+"NO_FANS_TRUST_TAKEOVER" "Colombia"
+"NO_FANS_TRUST_TAKEOVER" "China PR"
+"NO_FANS_TRUST_TAKEOVER" "Greece"
+"NO_FANS_TRUST_TAKEOVER" "India"
+"NO_FANS_TRUST_TAKEOVER" "Peru"
+"NO_FANS_TRUST_TAKEOVER" "Belgium"
+"NO_FANS_TRUST_TAKEOVER" "France"
+"NO_FANS_TRUST_TAKEOVER" "Turkey"
+"NO_FANS_TRUST_TAKEOVER" "Slovenia"
+"NO_FANS_TRUST_TAKEOVER" "Portugal"
+"NO_FANS_TRUST_TAKEOVER" "Uruguay"
+"NO_FANS_TRUST_TAKEOVER" "Italy"
+"NO_FANS_TRUST_TAKEOVER" "United States"
+"NO_FANS_TRUST_TAKEOVER" "Canada"
+"NO_FANS_TRUST_TAKEOVER" "Ukraine"
+"NO_FANS_TRUST_TAKEOVER" "Holland"
+
+## No Local Businessman Takeovers
+"NO_LOCAL_BUSINESSMAN_TAKEOVER" "Germany"
+"NO_LOCAL_BUSINESSMAN_TAKEOVER" "Finland"
+"NO_LOCAL_BUSINESSMAN_TAKEOVER" "Denmark"
+"NO_LOCAL_BUSINESSMAN_TAKEOVER" "Sweden"
+"NO_LOCAL_BUSINESSMAN_TAKEOVER" "Brazil"
+"NO_LOCAL_BUSINESSMAN_TAKEOVER" "Turkey"

@@ -1,0 +1,15 @@
+## Future Chairmen ##
+
+# This .edt file can be used to add future chairmen to the game. This should take the following format:
+
+# First Name, Common Name (Optional), Surname, Date Of Birth, Nationality, Takeover Club (Optional), Takeover Nation, Company Name (Optional)
+
+# For example. you might write the following:
+
+# "BOARD_TAKEOVER" "Joe" "" "Bloggs" "01.01.1980" "England" "Ipswich" "England" "Media Corner Ltd"
+
+# If you leave the favourite_team field blank, it will choose a team in the specified FAVOURITE_NATION i.e. any club in England. If you specify a favourite team, it will not link the chairman to any other teams.
+
+# Simply copy and paste the line beginning "BOARD_TAKEOVER" "Joe"... at the bottom of this file, remembering to remove the # sign from the start of the line and fill in the own details. You may add as many different chairmen as you wish.
+
+# Please ensure the 'future_chairmen' box is ticked in the 'Extra Files' section of Preferences. You must then start a new game for these changes to take effect.

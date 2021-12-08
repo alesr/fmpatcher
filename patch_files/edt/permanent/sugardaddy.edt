@@ -1,0 +1,33 @@
+## Sugar Daddy ##
+
+#  Sugar Daddy parameters:
+#  "SUGAR_DADDY" "Sugar Daddy Type" "Club Name" "Alter Starting Finances Flag"
+
+#  e.g "SUGAR_DADDY" "FRONT_END" "Charlton Athletic" "1"
+
+
+#  "Sugar Daddy Type":
+#  FRONT_END - They throw money at the club to spend.
+#  BACK_END - They spend enough to make them a force in their current league but if they go up a level or two it would no longer apply.
+#  UNDERWRITER - They don't give the manager any extra transfer budget but come the end of the season they will always cover any loss the club is making and not expect the money back.
+
+#  "Alter Starting Finances": 
+#  1 = true, 0 = false.
+#  Allow the sugar daddy to alter starting club budgets or use db values.
+
+"SUGAR_DADDY" "FRONT_END" "Manchester City" "0"
+"SUGAR_DADDY" "UNDERWRITER" "Chelsea" "0"
+"SUGAR_DADDY" "UNDERWRITER" "Shanghai Shenhua" "0"
+
+"SUGAR_DADDY" "BACK_END" "Buriram United" "0"
+"SUGAR_DADDY" "FRONT_END" "Al-Ain Football Club" "0"
+"SUGAR_DADDY" "FRONT_END" "Al-Wahda Football Club" "0"
+"SUGAR_DADDY" "UNDERWRITER" "Sepahan Isfahan" "0" 
+"SUGAR_DADDY" "FRONT_END" "AS Monaco" "0" 
+"SUGAR_DADDY" "UNDERWRITER" "Hoffenheim" "0"
+"SUGAR_DADDY" "UNDERWRITER" "Busan I'Park" "0"
+"SUGAR_DADDY" "UNDERWRITER" "Jeonnam Dragons" "0"
+"SUGAR_DADDY" "BACK_END" "Jeonbuk Hyundai Motors FC" "0"
+"SUGAR_DADDY" "UNDERWRITER" "Ulsan Hyundai FC" "0"
+"SUGAR_DADDY" "UNDERWRITER" "Suwon Samsung Bluewings FC" "0"
+
